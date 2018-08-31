@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.5.17",
-    "vue-apollo": "^3.0.0-beta.19",
+    "vue-apollo": "^3.0.0-beta.20",
     "vue-router": "^3.0.1",
     "vuetify": "^1.1.13"
   },
