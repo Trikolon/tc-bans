@@ -22,7 +22,7 @@
     "@vue/cli-service": "^3.2.3",
     "@vue/eslint-config-airbnb": "^4.0.0",
     "babel-plugin-transform-imports": "^1.5.1",
-    "graphql-tag": "^2.10.0",
+    "graphql-tag": "^2.10.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "vue-cli-plugin-apollo": "^0.19.1",
